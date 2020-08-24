@@ -1,0 +1,57 @@
+Feature,Var,Change
+Polarity/Charge,ABCB11 R1226L,1
+Polarity/Charge,ABCB11 E1223D,0
+Polarity/Charge,ABCB11 E592Q,1
+Polarity/Charge,ABCB11 D590G,1
+Polarity/Charge,ABCB11 I541M,1
+Polarity/Charge,ABCB11 R487H,0
+Polarity/Charge,ABCB11 E297G,1
+Functional motif/Adj,ABCB11 R1226L,1
+Functional motif/Adj,ABCB11 E1223D,1
+Functional motif/Adj,ABCB11 E592Q,1
+Functional motif/Adj,ABCB11 D590G,1
+Functional motif/Adj,ABCB11 I541M,1
+Functional motif/Adj,ABCB11 R487H,0
+Functional motif/Adj,ABCB11 E297G,0
+Hydrogen bonding,ABCB11 R1226L,1
+Hydrogen bonding,ABCB11 E1223D,1
+Hydrogen bonding,ABCB11 E592Q,1
+Hydrogen bonding,ABCB11 D590G,1
+Hydrogen bonding,ABCB11 I541M,1
+Hydrogen bonding,ABCB11 R487H,1
+Hydrogen bonding,ABCB11 E297G,1
+Transmembrane,ABCB11 R1226L,0
+Transmembrane,ABCB11 E1223D,0
+Transmembrane,ABCB11 E592Q,0
+Transmembrane,ABCB11 D590G,0
+Transmembrane,ABCB11 I541M,0
+Transmembrane,ABCB11 R487H,0
+Transmembrane,ABCB11 E297G,1
+Polarity/Charge,ABCB4 A601S,1
+Polarity/Charge,ABCB4 G302D,1
+Polarity/Charge,ABCB4 K1075M,1
+Polarity/Charge,ABCB4 N510S,1
+Polarity/Charge,ABCB4 T1077M,1
+Polarity/Charge,ABCB4 T593M,1
+Polarity/Charge,ABCB4 S320F,1
+Functional motif/Adj,ABCB4 A601S,1
+Functional motif/Adj,ABCB4 G302D,0
+Functional motif/Adj,ABCB4 K1075M,1
+Functional motif/Adj,ABCB4 N510S,1
+Functional motif/Adj,ABCB4 T1077M,1
+Functional motif/Adj,ABCB4 T593M,1
+Functional motif/Adj,ABCB4 S320F,0
+Hydrogen bonding,ABCB4 A601S,0
+Hydrogen bonding,ABCB4 G302D,0
+Hydrogen bonding,ABCB4 K1075M,1
+Hydrogen bonding,ABCB4 N510S,1
+Hydrogen bonding,ABCB4 T1077M,1
+Hydrogen bonding,ABCB4 T593M,0
+Hydrogen bonding,ABCB4 S320F,0
+Transmembrane,ABCB4 A601S,0
+Transmembrane,ABCB4 G302D,1
+Transmembrane,ABCB4 K1075M,0
+Transmembrane,ABCB4 N510S,0
+Transmembrane,ABCB4 T1077M,0
+Transmembrane,ABCB4 T593M,0
+Transmembrane,ABCB4 S320F,1
