@@ -1,0 +1,149 @@
+########################################
+# Program: needle
+# Rundate: Fri 21 Aug 2020 23:45:56
+# Commandline: needle
+#    -auto
+#    -stdout
+#    -asequence emboss_needle-I20200821-234552-0212-20233364-p1m.aupfile
+#    -bsequence emboss_needle-I20200821-234552-0212-20233364-p1m.bupfile
+#    -datafile EBLOSUM62
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -endopen 10.0
+#    -endextend 0.5
+#    -aformat3 pair
+#    -sprotein1
+#    -sprotein2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 6C0V
+# 2: ABCB4
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 1307
+# Identity:     975/1307 (74.6%)
+# Similarity:  1116/1307 (85.4%)
+# Gaps:          39/1307 ( 3.0%)
+# Score: 4931.0
+# 
+#
+#=======================================
+
+6C0V               1 MDLEGDRNGGA----KKKNFFKLNNKSEKDKKEKKPT--VSVFSMFRYSN     44
+                     ||||..:||.|    ..:..|:|...|::.:|:.|..  :.|.::||||:
+ABCB4              1 MDLEAAKNGTAWRPTSAEGDFELGISSKQKRKKTKTVKMIGVLTLFRYSD     50
+
+6C0V              45 WLDKLYMVVGTLAAIIHGAGLPLMMLVFGEMTDIFAN-AGNLE---DLMS     90
+                     |.|||:|.:||:.||.||:||||||:|||||||.|.: |||..   :...
+ABCB4             51 WQDKLFMSLGTIMAIAHGSGLPLMMIVFGEMTDKFVDTAGNFSFPVNFSL    100
+
+6C0V              91 NITNRSDINDTGFFMNLEEDMTRYAYYYSGIGAGVLVAAYIQVSFWCLAA    140
+                     ::.|...|        |||:||||||||||:|||||||||||||||.|||
+ABCB4            101 SLLNPGKI--------LEEEMTRYAYYYSGLGAGVLVAAYIQVSFWTLAA    142
+
+6C0V             141 GRQIHKIRKQFFHAIMRQEIGWFDVHDVGELNTRLTDDVSKINEGIGDKI    190
+                     ||||.|||::|||||:||||||||::|..|||||||||:|||:||||||:
+ABCB4            143 GRQIRKIRQKFFHAILRQEIGWFDINDTTELNTRLTDDISKISEGIGDKV    192
+
+6C0V             191 GMFFQSMATFFTGFIVGFTRGWKLTLVILAISPVLGLSAAVWAKILSSFT    240
+                     |||||::||||.||||||.|||||||||:||||:|||||||||||||:|:
+ABCB4            193 GMFFQAVATFFAGFIVGFIRGWKLTLVIMAISPILGLSAAVWAKILSAFS    242
+
+6C0V             241 DKELLAYAKAGAVAEEVLAAIRTVIAFGGQKKELERYNKNLEEAKRIGIK    290
+                     ||||.|||||||||||.|.|||||||||||.||||||.|:||.||.||||
+ABCB4            243 DKELAAYAKAGAVAEEALGAIRTVIAFGGQNKELERYQKHLENAKEIGIK    292
+
+6C0V             291 KAITANISIGAAFLLIYASYALAFWYGTTLVLSGEYSIGQVLTVFFSVLI    340
+                     |||:||||:|.||||||||||||||||:|||:|.||:||..:|||||:||
+ABCB4            293 KAISANISMGIAFLLIYASYALAFWYGSTLVISKEYTIGNAMTVFFSILI    342
+
+6C0V             341 GAFSVGQASPSIEAFANARGAAYEIFKIIDNKPSIDSYSKSGHKPDNIKG    390
+                     ||||||||:|.|:||||||||||.||.||||.|.|||:|:.|||||:|||
+ABCB4            343 GAFSVGQAAPCIDAFANARGAAYVIFDIIDNNPKIDSFSERGHKPDSIKG    392
+
+6C0V             391 NLEFRNVHFSYPSRKEVKILKGLNLKVQSGQTVALVGNSGCGKSTTVQLM    440
+                     ||||.:||||||||..|||||||||||||||||||||:|||||||||||:
+ABCB4            393 NLEFNDVHFSYPSRANVKILKGLNLKVQSGQTVALVGSSGCGKSTTVQLI    442
+
+6C0V             441 QRLYDPTEGMVSVDGQDIRTINVRFLREIIGVVSQEPVLFATTIAENIRY    490
+                     ||||||.||.:::||||||..||.:|||||||||||||||:|||||||.|
+ABCB4            443 QRLYDPDEGTINIDGQDIRNFNVNYLREIIGVVSQEPVLFSTTIAENICY    492
+
+6C0V             491 GRENVTMDEIEKAVKEANAYDFIMKLPHKFDTLVGERGAQLSGGQKQRIA    540
+                     ||.|||||||:|||||||||:||||||.||||||||||||||||||||||
+ABCB4            493 GRGNVTMDEIKKAVKEANAYEFIMKLPQKFDTLVGERGAQLSGGQKQRIA    542
+
+6C0V             541 IARALVRNPKILLLDQATSALDTESEAVVQVALDKARKGRTTIVIAHRLS    590
+                     |||||||||||||||:|||||||||||.||.||||||:||||||||||||
+ABCB4            543 IARALVRNPKILLLDEATSALDTESEAEVQAALDKAREGRTTIVIAHRLS    592
+
+6C0V             591 TVRNADVIAGFDDGVIVEKGNHDELMKEKGIYFKLVTMQTAGNEVELENA    640
+                     |||||||||||:||||||:|:|.||||::|:|||||.|||:|::::.|..
+ABCB4            593 TVRNADVIAGFEDGVIVEQGSHSELMKKEGVYFKLVNMQTSGSQIQSEEF    642
+
+6C0V             641 ADESKSEIDALEMSSNDSRSSLIRKRSTRRSVRGSQAQDRKLSTK-EALD    689
+                       |...|..|..|:.|..:|.|.| .||:::::.||...:.|..: :.|:
+ABCB4            643 --ELNDEKAATRMAPNGWKSRLFR-HSTQKNLKNSQMCQKSLDVETDGLE    689
+
+6C0V             690 ESIPPVSFWRIMKLNLTEWPYFVVGVFCAIINGGLQPAFAIIFSKIIGVF    739
+                     .::|||||.:::|||.|||||||||..|||.||||||||::|||:||.:|
+ABCB4            690 ANVPPVSFLKVLKLNKTEWPYFVVGTVCAIANGGLQPAFSVIFSEIIAIF    739
+
+6C0V             740 TRIDDPETKRQNSNLFSLLFLALGIISFITFFLQGFTFGKAGEILTKRLR    789
+                     ...|| ..|:|..|:|||:||.||||||.|||||||||||||||||:|||
+ABCB4            740 GPGDD-AVKQQKCNIFSLIFLFLGIISFFTFFLQGFTFGKAGEILTRRLR    788
+
+6C0V             790 YMVFRSMLRQDVSWFDDPKNTTGALTTRLANDAAQVKGAIGSRLAVITQN    839
+                     .|.|::|||||:|||||.||:||||:||||.|||||:||.|:|||:|.||
+ABCB4            789 SMAFKAMLRQDMSWFDDHKNSTGALSTRLATDAAQVQGATGTRLALIAQN    838
+
+6C0V             840 IANLGTGIIISFIYGWQLTLLLLAIVPIIAIAGVVEMKMLSGQALKDKKE    889
+                     ||||||||||||||||||||||||:|||||::|:||||:|:|.|.:||||
+ABCB4            839 IANLGTGIIISFIYGWQLTLLLLAVVPIIAVSGIVEMKLLAGNAKRDKKE    888
+
+6C0V             890 LEGSGKIATEAIENFRTVVSLTQEQKFEHMYAQSLQVPYRNSLRKAHIFG    939
+                     ||.:||||||||||.|||||||||:|||.||.:.|..|||||::||||:|
+ABCB4            889 LEAAGKIATEAIENIRTVVSLTQERKFESMYVEKLYGPYRNSVQKAHIYG    938
+
+6C0V             940 ITFSFTQAMMYFSYAGCFRFGAYLVAHKLMSFEDVLLVFSAVVFGAMAVG    989
+                     ||||.:||.|||||||||||||||:.:..|.|.||:|||||:||||:|:|
+ABCB4            939 ITFSISQAFMYFSYAGCFRFGAYLIVNGHMRFRDVILVFSAIVFGAVALG    988
+
+6C0V             990 QVSSFAPDYAKAKISAAHIIMIIEKTPLIDSYSTEGLMPNTLEGNVTFGE   1039
+                     ..|||||||||||:||||:.|:.|:.|||||||.|||.|:..|||:||.|
+ABCB4            989 HASSFAPDYAKAKLSAAHLFMLFERQPLIDSYSEEGLKPDKFEGNITFNE   1038
+
+6C0V            1040 VVFNYPTRPDIPVLQGLSLEVKKGQTLALVGSSGCGKSTVVQLLERFYDP   1089
+                     ||||||||.::|||||||||||||||||||||||||||||||||||||||
+ABCB4           1039 VVFNYPTRANVPVLQGLSLEVKKGQTLALVGSSGCGKSTVVQLLERFYDP   1088
+
+6C0V            1090 LAGKV-------LLDGKEIKRLNVQWLRAHLGIVSQEPILFDCSIAENIA   1132
+                     |||.|       ||||:|.|:||||||||.||||||||||||||||||||
+ABCB4           1089 LAGTVFVDFGFQLLDGQEAKKLNVQWLRAQLGIVSQEPILFDCSIAENIA   1138
+
+6C0V            1133 YGDNSRVVSQEEIVRAAKEANIHAFIESLPNKYSTKVGDKGTQLSGGQKQ   1182
+                     ||||||||||:|||.|||.||||.|||:||:||.|:||||||||||||||
+ABCB4           1139 YGDNSRVVSQDEIVSAAKAANIHPFIETLPHKYETRVGDKGTQLSGGQKQ   1188
+
+6C0V            1183 RIAIARALVRQPHILLLDQATSALDTESEKVVQEALDKAREGRTCIVIAH   1232
+                     ||||||||:|||.|||||:|||||||||||||||||||||||||||||||
+ABCB4           1189 RIAIARALIRQPQILLLDEATSALDTESEKVVQEALDKAREGRTCIVIAH   1238
+
+6C0V            1233 RLSTIQNADLIVVFQNGRVKEHGTHQQLLAQKGIYFSMVSVQAGTKRQSN   1282
+                     |||||||||||||||||||||||||||||||||||||||||||||:..  
+ABCB4           1239 RLSTIQNADLIVVFQNGRVKEHGTHQQLLAQKGIYFSMVSVQAGTQNL--   1286
+
+6C0V            1283 SLEVLFQ   1289
+                            
+ABCB4           1287 -------   1286
+
+
+#---------------------------------------
+#---------------------------------------

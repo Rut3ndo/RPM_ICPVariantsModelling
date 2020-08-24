@@ -1,0 +1,145 @@
+########################################
+# Program: needle
+# Rundate: Fri 21 Aug 2020 23:46:52
+# Commandline: needle
+#    -auto
+#    -stdout
+#    -asequence emboss_needle-I20200821-234648-0545-14747047-p1m.aupfile
+#    -bsequence emboss_needle-I20200821-234648-0545-14747047-p1m.bupfile
+#    -datafile EBLOSUM62
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -endopen 10.0
+#    -endextend 0.5
+#    -aformat3 pair
+#    -sprotein1
+#    -sprotein2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 6C0V
+# 2: ABCB1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 1289
+# Identity:    1278/1289 (99.1%)
+# Similarity:  1280/1289 (99.3%)
+# Gaps:           9/1289 ( 0.7%)
+# Score: 6427.0
+# 
+#
+#=======================================
+
+6C0V               1 MDLEGDRNGGAKKKNFFKLNNKSEKDKKEKKPTVSVFSMFRYSNWLDKLY     50
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ABCB1              1 MDLEGDRNGGAKKKNFFKLNNKSEKDKKEKKPTVSVFSMFRYSNWLDKLY     50
+
+6C0V              51 MVVGTLAAIIHGAGLPLMMLVFGEMTDIFANAGNLEDLMSNITNRSDIND    100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ABCB1             51 MVVGTLAAIIHGAGLPLMMLVFGEMTDIFANAGNLEDLMSNITNRSDIND    100
+
+6C0V             101 TGFFMNLEEDMTRYAYYYSGIGAGVLVAAYIQVSFWCLAAGRQIHKIRKQ    150
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ABCB1            101 TGFFMNLEEDMTRYAYYYSGIGAGVLVAAYIQVSFWCLAAGRQIHKIRKQ    150
+
+6C0V             151 FFHAIMRQEIGWFDVHDVGELNTRLTDDVSKINEGIGDKIGMFFQSMATF    200
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ABCB1            151 FFHAIMRQEIGWFDVHDVGELNTRLTDDVSKINEGIGDKIGMFFQSMATF    200
+
+6C0V             201 FTGFIVGFTRGWKLTLVILAISPVLGLSAAVWAKILSSFTDKELLAYAKA    250
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ABCB1            201 FTGFIVGFTRGWKLTLVILAISPVLGLSAAVWAKILSSFTDKELLAYAKA    250
+
+6C0V             251 GAVAEEVLAAIRTVIAFGGQKKELERYNKNLEEAKRIGIKKAITANISIG    300
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ABCB1            251 GAVAEEVLAAIRTVIAFGGQKKELERYNKNLEEAKRIGIKKAITANISIG    300
+
+6C0V             301 AAFLLIYASYALAFWYGTTLVLSGEYSIGQVLTVFFSVLIGAFSVGQASP    350
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ABCB1            301 AAFLLIYASYALAFWYGTTLVLSGEYSIGQVLTVFFSVLIGAFSVGQASP    350
+
+6C0V             351 SIEAFANARGAAYEIFKIIDNKPSIDSYSKSGHKPDNIKGNLEFRNVHFS    400
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ABCB1            351 SIEAFANARGAAYEIFKIIDNKPSIDSYSKSGHKPDNIKGNLEFRNVHFS    400
+
+6C0V             401 YPSRKEVKILKGLNLKVQSGQTVALVGNSGCGKSTTVQLMQRLYDPTEGM    450
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ABCB1            401 YPSRKEVKILKGLNLKVQSGQTVALVGNSGCGKSTTVQLMQRLYDPTEGM    450
+
+6C0V             451 VSVDGQDIRTINVRFLREIIGVVSQEPVLFATTIAENIRYGRENVTMDEI    500
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ABCB1            451 VSVDGQDIRTINVRFLREIIGVVSQEPVLFATTIAENIRYGRENVTMDEI    500
+
+6C0V             501 EKAVKEANAYDFIMKLPHKFDTLVGERGAQLSGGQKQRIAIARALVRNPK    550
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ABCB1            501 EKAVKEANAYDFIMKLPHKFDTLVGERGAQLSGGQKQRIAIARALVRNPK    550
+
+6C0V             551 ILLLDQATSALDTESEAVVQVALDKARKGRTTIVIAHRLSTVRNADVIAG    600
+                     |||||:||||||||||||||||||||||||||||||||||||||||||||
+ABCB1            551 ILLLDEATSALDTESEAVVQVALDKARKGRTTIVIAHRLSTVRNADVIAG    600
+
+6C0V             601 FDDGVIVEKGNHDELMKEKGIYFKLVTMQTAGNEVELENAADESKSEIDA    650
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ABCB1            601 FDDGVIVEKGNHDELMKEKGIYFKLVTMQTAGNEVELENAADESKSEIDA    650
+
+6C0V             651 LEMSSNDSRSSLIRKRSTRRSVRGSQAQDRKLSTKEALDESIPPVSFWRI    700
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ABCB1            651 LEMSSNDSRSSLIRKRSTRRSVRGSQAQDRKLSTKEALDESIPPVSFWRI    700
+
+6C0V             701 MKLNLTEWPYFVVGVFCAIINGGLQPAFAIIFSKIIGVFTRIDDPETKRQ    750
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ABCB1            701 MKLNLTEWPYFVVGVFCAIINGGLQPAFAIIFSKIIGVFTRIDDPETKRQ    750
+
+6C0V             751 NSNLFSLLFLALGIISFITFFLQGFTFGKAGEILTKRLRYMVFRSMLRQD    800
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ABCB1            751 NSNLFSLLFLALGIISFITFFLQGFTFGKAGEILTKRLRYMVFRSMLRQD    800
+
+6C0V             801 VSWFDDPKNTTGALTTRLANDAAQVKGAIGSRLAVITQNIANLGTGIIIS    850
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ABCB1            801 VSWFDDPKNTTGALTTRLANDAAQVKGAIGSRLAVITQNIANLGTGIIIS    850
+
+6C0V             851 FIYGWQLTLLLLAIVPIIAIAGVVEMKMLSGQALKDKKELEGSGKIATEA    900
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ABCB1            851 FIYGWQLTLLLLAIVPIIAIAGVVEMKMLSGQALKDKKELEGSGKIATEA    900
+
+6C0V             901 IENFRTVVSLTQEQKFEHMYAQSLQVPYRNSLRKAHIFGITFSFTQAMMY    950
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ABCB1            901 IENFRTVVSLTQEQKFEHMYAQSLQVPYRNSLRKAHIFGITFSFTQAMMY    950
+
+6C0V             951 FSYAGCFRFGAYLVAHKLMSFEDVLLVFSAVVFGAMAVGQVSSFAPDYAK   1000
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ABCB1            951 FSYAGCFRFGAYLVAHKLMSFEDVLLVFSAVVFGAMAVGQVSSFAPDYAK   1000
+
+6C0V            1001 AKISAAHIIMIIEKTPLIDSYSTEGLMPNTLEGNVTFGEVVFNYPTRPDI   1050
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ABCB1           1001 AKISAAHIIMIIEKTPLIDSYSTEGLMPNTLEGNVTFGEVVFNYPTRPDI   1050
+
+6C0V            1051 PVLQGLSLEVKKGQTLALVGSSGCGKSTVVQLLERFYDPLAGKVLLDGKE   1100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ABCB1           1051 PVLQGLSLEVKKGQTLALVGSSGCGKSTVVQLLERFYDPLAGKVLLDGKE   1100
+
+6C0V            1101 IKRLNVQWLRAHLGIVSQEPILFDCSIAENIAYGDNSRVVSQEEIVRAAK   1150
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ABCB1           1101 IKRLNVQWLRAHLGIVSQEPILFDCSIAENIAYGDNSRVVSQEEIVRAAK   1150
+
+6C0V            1151 EANIHAFIESLPNKYSTKVGDKGTQLSGGQKQRIAIARALVRQPHILLLD   1200
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ABCB1           1151 EANIHAFIESLPNKYSTKVGDKGTQLSGGQKQRIAIARALVRQPHILLLD   1200
+
+6C0V            1201 QATSALDTESEKVVQEALDKAREGRTCIVIAHRLSTIQNADLIVVFQNGR   1250
+                     :|||||||||||||||||||||||||||||||||||||||||||||||||
+ABCB1           1201 EATSALDTESEKVVQEALDKAREGRTCIVIAHRLSTIQNADLIVVFQNGR   1250
+
+6C0V            1251 VKEHGTHQQLLAQKGIYFSMVSVQAGTKRQSNSLEVLFQ   1289
+                     ||||||||||||||||||||||||||||||         
+ABCB1           1251 VKEHGTHQQLLAQKGIYFSMVSVQAGTKRQ---------   1280
+
+
+#---------------------------------------
+#---------------------------------------

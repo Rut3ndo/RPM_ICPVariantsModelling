@@ -1,0 +1,149 @@
+########################################
+# Program: needle
+# Rundate: Fri 21 Aug 2020 23:40:18
+# Commandline: needle
+#    -auto
+#    -stdout
+#    -asequence emboss_needle-I20200821-234015-0295-74093475-p1m.aupfile
+#    -bsequence emboss_needle-I20200821-234015-0295-74093475-p1m.bupfile
+#    -datafile EBLOSUM62
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -endopen 10.0
+#    -endextend 0.5
+#    -aformat3 pair
+#    -sprotein1
+#    -sprotein2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 6C0V
+# 2: ABCB11
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 1337
+# Identity:     663/1337 (49.6%)
+# Similarity:   911/1337 (68.1%)
+# Gaps:          64/1337 ( 4.8%)
+# Score: 3356.5
+# 
+#
+#=======================================
+
+6C0V               1 ---------MDLEGDRNGGAKKKNFFKLNNKS--EKDKKEKKPTVSVFSM     39
+                              :...|:.|.|.:....:..:.||  :.:||.....|..|.:
+ABCB11             1 MSDSVILRSIKKFGEENDGFESDKSYNNDKKSRLQDEKKGDGVRVGFFQL     50
+
+6C0V              40 FRYSNWLDKLYMVVGTLAAIIHGAGLPLMMLVFGEMTDIFANAG-NLEDL     88
+                     ||:|:..|...|.||:|.|.:||...|.::|:||.|||:|.:.. .|::|
+ABCB11            51 FRFSSSTDIWLMFVGSLCAFLHGIAQPGVLLIFGTMTDVFIDYDVELQEL    100
+
+6C0V              89 MSNITNRSDINDTGFF-----------------MNLEEDMTRYAYYYSGI    121
+                       .|..::.:|:|..:                 :|:|.:|.::|.||:||
+ABCB11           101 --QIPGKACVNNTIVWTNSSLNQNMTNGTRCGLLNIESEMIKFASYYAGI    148
+
+6C0V             122 GAGVLVAAYIQVSFWCLAAGRQIHKIRKQFFHAIMRQEIGWFDVHDVGEL    171
+                     ...||:..|||:.||.:||.|||.|:||.:|..|||.||||||.:.||||
+ABCB11           149 AVAVLITGYIQICFWVIAAARQIQKMRKFYFRRIMRMEIGWFDCNSVGEL    198
+
+6C0V             172 NTRLTDDVSKINEGIGDKIGMFFQSMATFFTGFIVGFTRGWKLTLVILAI    221
+                     |||.:||::|||:.|.|::.:|.|.|.:...||::||.|||||||||:::
+ABCB11           199 NTRFSDDINKINDAIADQMALFIQRMTSTICGFLLGFFRGWKLTLVIISV    248
+
+6C0V             222 SPVLGLSAAVWAKILSSFTDKELLAYAKAGAVAEEVLAAIRTVIAFGGQK    271
+                     ||::|:.||.....:|.|||.||.||||||.||:||::::|||.||||:|
+ABCB11           249 SPLIGIGAATIGLSVSKFTDYELKAYAKAGVVADEVISSMRTVAAFGGEK    298
+
+6C0V             272 KELERYNKNLEEAKRIGIKKAITANISIGAAFLLIYASYALAFWYGTTLV    321
+                     :|:|||.|||..|:|.||:|.|......|..:.||:..||||||||:|||
+ABCB11           299 REVERYEKNLVFAQRWGIRKGIVMGFFTGFVWCLIFLCYALAFWYGSTLV    348
+
+6C0V             322 L-SGEYSIGQVLTVFFSVLIGAFSVGQASPSIEAFANARGAAYEIFKIID    370
+                     | .|||:.|.::.:|.||::||.::|.|||.:||||..|.||..||:.||
+ABCB11           349 LDEGEYTPGTLVQIFLSVIVGALNLGNASPCLEAFATGRAAATSIFETID    398
+
+6C0V             371 NKPSIDSYSKSGHKPDNIKGNLEFRNVHFSYPSRKEVKILKGLNLKVQSG    420
+                     .||.||..|:.|:|.|.|||.:||.||.|.||||.|||||..||:.::.|
+ABCB11           399 RKPIIDCMSEDGYKLDRIKGEIEFHNVTFHYPSRPEVKILNDLNMVIKPG    448
+
+6C0V             421 QTVALVGNSGCGKSTTVQLMQRLYDPTEGMVSVDGQDIRTINVRFLREII    470
+                     :..||||.||.||||.:||:||.|||.||||:|||.|||::|:::||:.|
+ABCB11           449 EMTALVGPSGAGKSTALQLIQRFYDPCEGMVTVDGHDIRSLNIQWLRDQI    498
+
+6C0V             471 GVVSQEPVLFATTIAENIRYGRENVTMDEIEKAVKEANAYDFIMKLPHKF    520
+                     |:|.||||||:||||||||||||:.||::|.:|.||||||:|||.||.:|
+ABCB11           499 GIVEQEPVLFSTTIAENIRYGREDATMEDIVQAAKEANAYNFIMDLPQQF    548
+
+6C0V             521 DTLVGERGAQLSGGQKQRIAIARALVRNPKILLLDQATSALDTESEAVVQ    570
+                     ||||||.|.|:|||||||:||||||:|||||||||.||||||.||||:||
+ABCB11           549 DTLVGEGGGQMSGGQKQRVAIARALIRNPKILLLDMATSALDNESEAMVQ    598
+
+6C0V             571 VALDKARKGRTTIVIAHRLSTVRNADVIAGFDDGVIVEKGNHDELMKEKG    620
+                     ..|.|.:.|.|.|.:||||||||.||.|.||:.|..||:|.|:||::.||
+ABCB11           599 EVLSKIQHGHTIISVAHRLSTVRAADTIIGFEHGTAVERGTHEELLERKG    648
+
+6C0V             621 IYFKLVTMQTAGNE-VELENAADESKSEIDALEMSSNDSRSSL---IRKR    666
+                     :||.|||:|:.||: :..|:..|.::.::.|...|....:.||   ||:|
+ABCB11           649 VYFTLVTLQSQGNQALNEEDIKDATEDDMLARTFSRGSYQDSLRASIRQR    698
+
+6C0V             667 STRR-------------SVRGSQAQDRKLSTKE-ALDESIPPVSFWRIMK    702
+                     |..:             ..:.:..:|||  .|: .:.|.:.|....||:|
+ABCB11           699 SKSQLSYLVHEPPLAVVDHKSTYEEDRK--DKDIPVQEEVEPAPVRRILK    746
+
+6C0V             703 LNLTEWPYFVVGVFCAIINGGLQPAFAIIFSKIIGVFTRIDDPETKRQNS    752
+                     .:..||||.:||...|.:||.:.|.:|.:||:|:|.|: |.|.|.:|...
+ABCB11           747 FSAPEWPYMLVGSVGAAVNGTVTPLYAFLFSQILGTFS-IPDKEEQRSQI    795
+
+6C0V             753 NLFSLLFLALGIISFITFFLQGFTFGKAGEILTKRLRYMVFRSMLRQDVS    802
+                     |...|||:|:|.:|..|.||||:.|.|:||:||||||...||:||.||::
+ABCB11           796 NGVCLLFVAMGCVSLFTQFLQGYAFAKSGELLTKRLRKFGFRAMLGQDIA    845
+
+6C0V             803 WFDDPKNTTGALTTRLANDAAQVKGAIGSRLAVITQNIANLGTGIIISFI    852
+                     ||||.:|:.||||||||.||:||:||.||::.:|..:..|:...:||:|.
+ABCB11           846 WFDDLRNSPGALTTRLATDASQVQGAAGSQIGMIVNSFTNVTVAMIIAFS    895
+
+6C0V             853 YGWQLTLLLLAIVPIIAIAGVVEMKMLSGQALKDKKELEGSGKIATEAIE    902
+                     :.|:|:|::|...|.:|::|..:.:||:|.|.:||:.||..|:|..||:.
+ABCB11           896 FSWKLSLVILCFFPFLALSGATQTRMLTGFASRDKQALEMVGQITNEALS    945
+
+6C0V             903 NFRTVVSLTQEQKFEHMYAQSLQVPYRNSLRKAHIFGITFSFTQAMMYFS    952
+                     |.|||..:.:|::|.......|:.|::.:::||:|:|..|:|.|.:|:.:
+ABCB11           946 NIRTVAGIGKERRFIEALETELEKPFKTAIQKANIYGFCFAFAQCIMFIA    995
+
+6C0V             953 YAGCFRFGAYLVAHKLMSFEDVLLVFSAVVFGAMAVGQVSSFAPDYAKAK   1002
+                     .:..:|:|.||::::.:.|..|..|.||||..|.|:|:..|:.|.|||||
+ABCB11           996 NSASYRYGGYLISNEGLHFSYVFRVISAVVLSATALGRAFSYTPSYAKAK   1045
+
+6C0V            1003 ISAAHIIMIIEKTPLIDSYSTEGLMPNTLEGNVTFGEVVFNYPTRPDIPV   1052
+                     ||||....::::.|.|..|:|.|...:..:|.:.|.:..|.||:|||..|
+ABCB11          1046 ISAARFFQLLDRQPPISVYNTAGEKWDNFQGKIDFVDCKFTYPSRPDSQV   1095
+
+6C0V            1053 LQGLSLEVKKGQTLALVGSSGCGKSTVVQLLERFYDPLAGKVLLDGKEIK   1102
+                     |.|||:.:..|||||.||||||||||.:|||||||||..|||::||.:.|
+ABCB11          1096 LNGLSVSISPGQTLAFVGSSGCGKSTSIQLLERFYDPDQGKVMIDGHDSK   1145
+
+6C0V            1103 RLNVQWLRAHLGIVSQEPILFDCSIAENIAYGDNSRVVSQEEIVRAAKEA   1152
+                     ::|||:||:::|||||||:||.|||.:||.||||::.:..|.::.|||:|
+ABCB11          1146 KVNVQFLRSNIGIVSQEPVLFACSIMDNIKYGDNTKEIPMERVIAAAKQA   1195
+
+6C0V            1153 NIHAFIESLPNKYSTKVGDKGTQLSGGQKQRIAIARALVRQPHILLLDQA   1202
+                     .:|.|:.|||.||.|.||.:|:|||.|:|||||||||:||.|.|||||:|
+ABCB11          1196 QLHDFVMSLPEKYETNVGSQGSQLSRGEKQRIAIARAIVRDPKILLLDEA   1245
+
+6C0V            1203 TSALDTESEKVVQEALDKAREGRTCIVIAHRLSTIQNADLIVVFQNGRVK   1252
+                     ||||||||||.||.|||||||||||||||||||||||||:|.|...|.|.
+ABCB11          1246 TSALDTESEKTVQVALDKAREGRTCIVIAHRLSTIQNADIIAVMAQGVVI   1295
+
+6C0V            1253 EHGTHQQLLAQKGIYFSMVSVQAGTKRQSNSLEVLFQ   1289
+                     |.|||::|:||||.|:.:|:..:...           
+ABCB11          1296 EKGTHEELMAQKGAYYKLVTTGSPIS-----------   1321
+
+
+#---------------------------------------
+#---------------------------------------
